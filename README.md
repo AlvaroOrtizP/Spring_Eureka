@@ -8,3 +8,6 @@ eureka-server
 ms-db
 
 Por ultimo el cliente standalone-ms-client o api-rest-ms-client
+
+
+Balanceo de carga
